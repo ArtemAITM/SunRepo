@@ -1,0 +1,6 @@
+train: C:\Users\antro\PycharmProjects\SunLast\SunspotsYoloDataset\train
+val: C:\Users\antro\PycharmProjects\SunLast\SunspotsYoloDataset\validation
+test: C:\Users\antro\PycharmProjects\SunLast\SunspotsYoloDataset\test
+
+nc: 1
+names: ["sunspot"]
